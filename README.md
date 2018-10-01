@@ -13,13 +13,13 @@ You can also edit it using any text editor as long as you have HTML/CSS & Suffec
 
 ## To Do List
 
-* Finding all the typos.
+* Finding all the typos & fixing incorrect verb tenses.
 * Adding more comments on CSS for newbies to the language.
 * Getting accepted at Utopian.io as full-fledged open-source project.
 * Cleaning this documentation & adding more value to it.
 * Re-publish on SteemGG, Gamejolt & itch.io
 * Creating more alternate routes and endings (long term.)
-* 
+
 
 ## Project Contributers
 
