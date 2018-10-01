@@ -1,6 +1,6 @@
 # Procrastination-Simulator ~ You'll do it tomorrow ~
 
-![https://i.imgur.com/u3dAuAs.png]
+![Image](https://i.imgur.com/u3dAuAs.png)
 
 ## About the Interactive Fiction
 This Game or rather Interactive Fiction (IF) puts you in the shoes of aspiring game developer who's bad at managing his time. For one day, your choices will prove useful or distracteful from accomplishing the goal of being a Game Developer. The game is described by those who finihsed it as relatable, and it shows you the downsides and ease of getting into proctastinating path.
