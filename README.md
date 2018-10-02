@@ -19,9 +19,9 @@ You can also edit it using any text editor as long as you have HTML/CSS & Suffec
 
 ## To Do List
 
+* ~~Getting accepted at Utopian.io as full-fledged open-source project.~~ (Partly Done)
 * Finding all the typos & fixing incorrect verb tenses.
 * Adding more comments on CSS for newbies to the language.
-* Getting accepted at Utopian.io as full-fledged open-source project.
 * Cleaning this documentation & adding more value to it.
 * Re-publish on SteemGG, Gamejolt & itch.io
 * Creating more alternate routes and endings (long term.)
@@ -34,4 +34,6 @@ You can also edit it using any text editor as long as you have HTML/CSS & Suffec
 
 ### Special Thanks
 
-* To everyone who made this project possible & special thanks for https://steemgg.com/ group for support. ANd you for reading this documentation.
+* To everyone who made this project possible & special thanks for https://steemgg.com/ group for support. 
+* To [Utopian.io](https://join.utopian.io/) team for their help in this project.
+* You for reading this document.
