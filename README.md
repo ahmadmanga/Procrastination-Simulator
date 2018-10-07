@@ -19,7 +19,7 @@ You can also edit it using any text editor as long as you have HTML/CSS & Suffec
 
 ## To Do List
 
-* ~~Getting accepted at Utopian.io as full-fledged open-source project.~~ (Partly Done)
+* Getting accepted at Utopian.io as full-fledged open-source project. [Done](https://steemit.com/utopian-io/@ahmadmanga/procrastination-simulator-now-an-open-source-project-9ac54ab9034f1est)
 * Finding all the typos & fixing incorrect verb tenses.
 * Adding more comments on CSS for newbies to the language.
 * Cleaning this documentation & adding more value to it.
