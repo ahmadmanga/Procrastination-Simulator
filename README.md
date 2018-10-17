@@ -3,7 +3,7 @@
 ![Image](https://i.imgur.com/u3dAuAs.png)
 
 ## About the Interactive Fiction
-This Game or rather Interactive Fiction (IF) puts you in the shoes of aspiring game developer who's bad at managing his time. For one day, your choices will prove useful or distracteful from accomplishing the goal of being a Game Developer. The game is described by those who finihsed it as relatable, and it shows you the downsides and ease of getting into proctastinating path.
+This Game or rather Interactive Fiction (IF) puts you in the shoes of aspiring game developer who's bad at managing his time. For one day, your choices will prove useful or distracteful from accomplishing the goal of being a Game Developer. The IF/game is described by those who finished it as relatable, and it shows you the downsides and ease of getting into proctastinating path.
 
 * This project is based on the SteemGG version: [Play here.](https://steemgg.com/#/game/play/14)
 * You can for now play the legacy version on [itch.io](https://ahmadmanga.itch.io/procrastination-simulator) & [Gamejolt.com](https://gamejolt.com/games/procrastination-simulator/131085)
