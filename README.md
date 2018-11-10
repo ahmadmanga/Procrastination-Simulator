@@ -17,16 +17,9 @@ This Game or rather Interactive Fiction (IF) puts you in the shoes of aspiring g
 
 You can also edit it using any text editor as long as you have HTML/CSS & Suffecient knowledge of the working of Twine engine.
 
-## To Do List
+## About This Branch
 
-* ~~Getting accepted at Utopian.io as full-fledged open-source project.~~ [Done](https://steemit.com/utopian-io/@ahmadmanga/procrastination-simulator-now-an-open-source-project-9ac54ab9034f1est)
-* ~~Finding all the typos & fixing incorrect verb tenses.~~ Found most of them. 
-* ~~Re-publish on [SteemGG](https://steemgg.com/#/game/play/14), [Gamejolt](https://gamejolt.com/games/ProcrastinationSimulator/373908) & [itch.io](https://ahmadmanga.itch.io/procrastination-simluator).~~ Published the 2018 version!
-* Adding more comments on CSS for newbies to the language.
-* Cleaning this documentation & adding more value to it.
-* Adding backgrounds and SFX.
-* Creating more alternate routes and endings (long term.)
-
+This branch (WithoutVariables) of Master was created to preserve the state of the project before adding the variables to it. Because the source code is easier to understand.
 
 ## Project Contributers
 
