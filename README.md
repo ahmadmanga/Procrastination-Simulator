@@ -5,8 +5,8 @@
 ## About the Interactive Fiction
 This Game or rather Interactive Fiction (IF) puts you in the shoes of aspiring game developer who's bad at managing his time. For one day, your choices will prove useful or distracteful from accomplishing the goal of being a Game Developer. The IF/game is described by those who finished it as relatable, and it shows you the downsides and ease of getting into proctastinating path.
 
-* This project is based on the SteemGG version: [Play here.](https://steemgg.com/#/game/play/14)
-* You can for now play the legacy version on [itch.io](https://ahmadmanga.itch.io/procrastination-simulator) & [Gamejolt.com](https://gamejolt.com/games/procrastination-simulator/131085)
+* The latest 2022 version can be played on [Itch.io](https://ahmadmanga.itch.io/procrastination-simulator)
+* You can play the legacy version on [itch.io](https://ahmadmanga.itch.io/procrastination-simulator-legacy) & [Gamejolt.com](https://gamejolt.com/games/procrastination-simulator/131085)
 * You can check releases section for downloadable versions of both.
 
 ### Made using Twine2 - How to Edit
@@ -32,9 +32,3 @@ You can also edit it using any text editor as long as you have HTML/CSS & Suffec
 
 * @ahmadmanga: Idea, implementation and project submition.
 * You? Please feel free to fork, suggest or find issues.
-
-### Special Thanks
-
-* To everyone who made this project possible & special thanks for https://steemgg.com/ group for support. 
-* To [Utopian.io](https://join.utopian.io/) team for their help in this project.
-* You for reading this document.
